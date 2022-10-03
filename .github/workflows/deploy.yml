@@ -6,7 +6,7 @@ on:
     - main
 
 env:
-  UNIQUE_APP_NAME: cartify
+  UNIQUE_APP_NAME: cartifyapp
   AZURE_RESOURCE_GROUP_NAME: alt-orleans-rg
   AZURE_RESOURCE_GROUP_LOCATION: eastus
 
